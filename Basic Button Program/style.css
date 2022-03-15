@@ -1,0 +1,10 @@
+button {
+
+    /*modifying the looks of the button*/
+    background-color: cyan;
+    color: black;
+    padding: 20px 32px;
+    font-size: 18;
+    cursor: pointer;
+    margin: 40vh 90vh;
+}

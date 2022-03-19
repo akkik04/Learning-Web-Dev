@@ -1,0 +1,2 @@
+Continuing my journey with web dev through this small project. 
+Displaying the logos of various programming languages with an associated button for each logo. :)

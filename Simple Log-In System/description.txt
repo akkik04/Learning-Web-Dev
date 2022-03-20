@@ -1,0 +1,2 @@
+Created a simple log-in system to authorize a user's username and password. The "correct" credentials were pre-defined. 
+Continuing to explore more :)

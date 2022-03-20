@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Log-In System</title>
+
+    <!--linking our css-sheet-->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!--main log-in interface-->
+    <main id="main">
+
+        <!--log-in header-->
+        <h1 id="login-header">Simple Log-In System</h1>
+
+        <!--div for handling invalid entry-->
+        <div id="error-holder">
+            <p id="error-1">Invalid username and/or password</p>
+        </div>
+
+        <!--creating the form-->
+        <form id="login-form">
+            <input type="text" name="username" id="username-field" class="form-field" placeholder="Username">
+            <input type="password" name="password" id="password-field" class="form-field" placeholder="Password">
+            <input type="submit" value="Login" id="login-submit">
+        </form>
+    </main>
+
+    <!--linking our script.js-->
+    <script src="script.js"></script>
+</body>
+</html>

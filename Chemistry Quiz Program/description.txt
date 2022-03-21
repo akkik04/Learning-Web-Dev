@@ -1,0 +1,3 @@
+Created a quiz game that revolves around beginner-hard chemistry material. The questions have four options (a, b, c, and d), which are validated by the program. 
+A final score is outputted to the user in the end.
+:)

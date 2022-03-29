@@ -1,0 +1,2 @@
+Created a basic Rock Paper Scissors to continue exploring web dev. 
+The program intends to give the user an option to pick one of the three generic options, and compares it to what the computer picked.

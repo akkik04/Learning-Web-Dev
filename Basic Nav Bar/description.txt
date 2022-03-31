@@ -1,0 +1,2 @@
+This program intends to create a basic navigation bar for a website. I plan on incorporating this into a bigger project, which is why I'm practicing it.
+Continuing the intro to web dev :)
